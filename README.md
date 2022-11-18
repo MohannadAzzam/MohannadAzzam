@@ -16,7 +16,7 @@
 <a href="https://twitter.com/_ryuuzaki_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ryuuzaki_3" height="30" width="40" /></a>
 <a href="https://instagram.com/ryuuzaki_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryuuzaki_3" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc-jxjv8qwfhhda96ziw9adg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-jxjv8qwfhhda96ziw9adg" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/296255537962811406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/296255537962811406" height="30" width="40" /></a>
+<a href="https://discord.gg/296255537962811406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="296255537962811406" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
