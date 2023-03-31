@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohannad M. Azzam</h1>
 <h3 align="center">A passionate flutter developer from palestine</h3>
-<img align="right" alt="Coding" width="400" src="[https://assets4.lottiefiles.com](https://codacomms.com/wp-content/uploads/2022/08/CODA_CC_Animated_GIF_v0_05_08_2022_.gif)">
+<img align="right" alt="Coding" width="400" src="https://assets4.lottiefiles.com](https://codacomms.com/wp-content/uploads/2022/08/CODA_CC_Animated_GIF_v0_05_08_2022_.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohannadazzam&label=Profile%20views&color=0e75b6&style=flat" alt="mohannadazzam" /> </p>
 
