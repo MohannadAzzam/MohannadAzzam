@@ -36,8 +36,11 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohannadazzam&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohannadazzam&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohannadazzam&layout=compact&theme=react" alt="Top Languages" height="170" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohannadazzam&layout=compact&theme=visual_studio_code)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohannadazzam&theme=visual_studio_code)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohannadazzam&theme=react" alt="GitHub Streak" width="100%" />
+</p>
