@@ -42,5 +42,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohannadazzam&theme=react" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohannadazzam&theme=react" alt="GitHub Streak" width="82%" />
 </p>
